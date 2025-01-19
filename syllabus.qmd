@@ -1,0 +1,36 @@
+---
+title: "Syllabus"
+---
+
+
+
+
+Course Distribution of Phonology
+
+*First Semester (20251)*\
+*Course Code:* 325/3\
+*Course Title:* Phonology\
+*Credit Hours:* 3
+
+| Week | Date | Topics | CLO Codes |
+|-----------|-----------|----------------------------------------|-----------|
+| 1 | From (18/08/2024) <br> To (22/08/2024) | Orientation + Introductory Lecture <br> Definition of Phonology, the syllable, nature, structure, and syllabification | 1.1 |
+| 2 | From (25/08/2024) <br> To (29/08/2024) | Chapter 9 <br> Strong and weak syllables | 1.1 & 2.1 |
+| 3 | From (01/09/2024) <br> To (05/09/2024) | Chapter 9 <br> Strong and weak syllables | 1.1 & 2.1 |
+| 4 | From (08/09/2024) <br> To (12/09/2024) | Chapter 10 <br> Stress in simple words | 1.1 & 2.1 |
+| 5 | From (15/09/2024) <br> To (19/09/2024) | Chapter 10 <br> Stress in simple words <br> *Quiz* | 1.1 & 2.1 |
+| 6 | From (22/09/2024) <br> To (26/09/2024) | National Day Holiday Break (Sunday and Monday) |  |
+| 7 | From (29/09/2024) <br> To (03/10/2024) | Chapter 11 <br> Complex word stress | 2.1 |
+| 8 | From (06/10/2024) <br> To (10/10/2024) | Chapter 12 <br> Weak Forms | 2.2 |
+| 9 | From (13/10/2024) <br> To (17/10/2024) | Chapter 12 <br> Weak Forms <br> *Midterm Exam* | 2.2 |
+| 10 | From (20/10/2024) <br> To (24/10/2024) | Chapter 14 <br> Aspects of connected speech: rhythm, assimilation, elision, and linking | 1.1, 2.1 & 2.3 |
+| 11 | From (27/10/2024) <br> To (31/10/2024) | Chapter 14 <br> Aspects of connected speech: rhythm, assimilation, elision, and linking | 1.1, 2.1 & 2.3 |
+| 12 | From (03/11/2024) <br> To (07/11/2024) | Chapter 15 <br> Intonation 1 | 1.1 & 3.2 |
+| 13 | From (10/11/2024) <br> To (14/11/2024) | *Mid Semester Break* |  |
+| 14 | From (17/11/2024) <br> To (21/11/2024) | Chapter 16 <br> Intonation 2 | 1.1 & 3.2 |
+| 15 | From (24/11/2024) <br> To (28/11/2024) | Chapter 18 <br> Functions of intonations 1 | 1.1 & 3.2 |
+| 16 | From (01/12/2024) <br> To (05/12/2024) | Make up Quiz and Midterm |  |
+| 17 | From (08/12/2024) <br> To (12/12/2024) | Presentations + Orals + Course Review |  |
+| 18 | From (15/12/2024) <br> To (19/12/2024) | *Final Exams* |  |
+| 19 | From (22/12/2024) <br> To (26/12/2024) | *Final Exams* |  |
+| 20 | From (29/12/2024) <br> To (02/01/2025) | *Final Exams* |  |

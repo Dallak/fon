@@ -1,0 +1,23 @@
+
+---
+
+### 5. **Custom HTML Templates**
+You can also modify the `html` template to include JavaScript for all your documents.
+
+#### Create a Custom Template
+1. Add JavaScript to the `before_body` block in a custom template (`template.html`).
+
+Example `template.html`:
+```html
+<!DOCTYPE html>
+<html>
+<head>
+  {{ meta }}
+</head>
+<body>
+  {{ body }}
+  <script>
+    console.log("Custom template JavaScript is running.");
+  </script>
+</body>
+</html>

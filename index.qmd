@@ -1,0 +1,83 @@
+---
+title: "Phonology ENG-3/325"
+---
+
+
+# Course Description
+
+The main purpose of this course is orient students to the suprasegmental features of phonology starting from the very concept of the syllable. The course then moves on to word stress in simple, compound, and complex and how weak forms are pronounced in a sentence. Then, concepts related to rhythm, assimilation, linking and elision are presented before moving on to the most challenging part of suprasegmental phonology – intonation and its functions. The course concludes with a chapter on varieties of English.
+
+# Course Main Objective
+The teacher intends to fulfil the following objectives in the course. The key objectives of the course are to:
+
+
+* Orient students to the concept of the syllable and how to understand syllable division in polysyllabic words
+* Demonstrate how stress is placed in simple words based on a set of criteria
+* Illustrate the use of stress in compound and complex words based on the parts of speech and on the prefixes and suffixes
+* Explain the use of weak forms in regular speech
+* Provide an overview of distinctive features
+* Distinguish between stress-timed and syllable-timed rhythm
+* Describe types of assimilation, linking and elision
+* Facilitate understanding of intonation patterns, functions, and parts of the tone unit
+* Develop a clear and lucid idea regarding the varieties of English
+
+
+# Course Learning Outcomes
+
+
+|               CLOs               | Aligned PLOs |
+|--------------------------------|------------|
+| *Knowledge and Understanding:* The students will be able to <br> Explain definitions, concepts, and rules pertaining to phonology. | K2           |
+| *Skills:* The students will be able to    <br>| Distinguish between stress in simple, compound, and complex words.                                   | S1           |
+| Analyze functional words in their strong and weak forms depending on set criteria.                   | S1           |
+| Compare and contrast between different types of phonemic analysis, rhythm, and aspects of connected speech. | S2       |
+| *Values:* The students will be able to                                                              |              |
+| Develop the value of excellence through collaborative and continuous learning.                       | V2           |
+
+
+# Learning Resources and Facilities
+## Required Textbooks
+Roach, Peter. 2000. English Phonetics & Phonology: A Practical Course. 4th Ed. Cambridge:
+Cambridge University Press.
+
+
+## Essential References Materials
+Clark, J & Yallop C. 2001. An Introduction to Phonetics and Phonology, 2nd ed. Oxford: Blackwell.
+
+Lass, Roger .1985. Phonology: An Introduction to Basic Concepts. Cambridge: Cambridge University Press.
+
+Noam Chomsky and Morris Hall. 1968 : The Sound Pattern of English (frequently referred to as SPE). 1st Ed. Harper & Row
+
+
+
+
+# Course Learning Outcomes
+
+| Code | Course Learning Outcomes                                                                                       | Teaching Strategies                                   | Assessment Methods                                                                                                                                                                                                                          |
+|------|---------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1.1  | Explain definitions, concepts, and rules pertaining to phonology.                                              | Lectures, tutorials, pair work, group discussion    | *Type of Assessment:* Quiz, Midterm, Worksheets, Final Exam<br>*Nature of Questions:* MCQs, true/false, matching, fill in the blanks, subjective questions                                                                             |
+| 2.0  | *Skills:* Students will be able to                                                                           |                                                     |                                                                                                                                                                                                                                           |
+| 2.1  | Distinguish between stress in simple, compound, and complex words.                                             | Lectures, tutorials, pair work, group discussion    | *Type of Assessment:* Quiz, Midterm<br>*Nature of Questions:* MCQs, matching, true/false, fill in the blanks, mark stress on the following words and fill in the table with information regarding stress placement                     |
+| 2.2  | Analyze functional words in their strong and weak forms depending on set criteria.                             | Lectures, tutorials, pair work, group discussion    | *Type of Assessment:* Worksheets, Quiz, Midterm, Final Exam<br>*Nature of Questions:* MCQs, matching, true/false, fill in the blanks, transcribe the underlined weak forms in the following sentences                                  |
+| 2.3  | Compare and contrast between different types of phonemic analysis, rhythm, and aspects of connected speech.    | Lectures, tutorials, pair work, group discussion    | *Type of Assessment:* Quiz, Midterm, Worksheets, Final Exam<br>*Nature of Questions:* Fill in the blanks, MCQs, true/false, matching, prepare a one-phoneme analysis and a two-phoneme analysis of the following                      |
+| 3.0  | *Values:* Students will be able to                                                                           |                                                     |                                                                                                                                                                                                                                           |
+| 3.1  | Reinforce the value of excellence through collaborative and continuous learning.                                | Tutorials, pair work, group discussion              | Questions related to intonation patterns & functions and phonological problems                                                                                                                     |
+
+
+
+
+# Assessment Table
+
+| #  | Assessment Task*             | Week Due | Percentage of Total Assessment Score |
+|----|------------------------------|----------|---------------------------------------|
+| 1  | Quiz 1         | 6       | 10 Marks                              |
+| 2  | Mid-Term / Makeup  Exam                   | 9  | 20 Marks                              |
+| 3  | Project presentation         | 10       | 10 Marks                              |
+| 4  | Final Exam                   | 16 - 17  | 60 Marks                              |
+|    | *Total*                    |          | *100*                               |
+
+*\*Assessment task (i.e., written test, oral test, oral presentation, group project, essay, etc.)*
+
+
+
+

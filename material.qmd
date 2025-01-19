@@ -1,0 +1,1378 @@
+---
+title: "Materials"
+---
+
+This section provides the course materials for each week and unit. It covers the main ideas of the respective units but students are encouraged to study from the textbook required for this course. This website is meant to walk the students through the unit so that the students should be able to study independently afterwards.
+
+
+
+:::: panel-tabset
+#### Chapter 9
+
+# Strong and Weak Syllables
+
+## Last week
+
+::: callout-note
+• Module information: format, assessments, required book, etc.
+
+• We introduced the notion of the syllable and why it’s significant in phonology, internal structure of the syllable (onset, peak, coda), syllabic consonants in English, ambisyllabic consonant.
+:::
+
+## This week
+
+-   Two types of the syllables would be distinguished: weak vs strong.
+-   General nature of weak syllables compared with strong syllable based on the phonetic characteristics of the syllable .
+-   Weak syllables usually have i, u, ə and syllabic consonants.
+
+## This chapter covers:
+
+-   Strong and weak syllable
+-   The \[ə\] vowel (“schwa”)
+-   Close front and close back vowels
+-   Syllabic consonants
+-   Combination of syllabic consonants
+
+## 9.1 Strong and Weak syllables
+
+### 9.1 How could we distinguish between weak and strong syllable? Or What are the phonetic characteristics of weak syllables?
+
+1.  The vowel in a weak syllable tends to be shorter, less loud of lower intensity than the one in strong syllable, for example, in the word /fɑː.ðə/, the weak syllable is the second…why? Because it has a schwa which is shorter than the vowel in the first syllable. Also, the schwa is less loud than the vowel in the first syllable /ɑː/. The schwa cannot occur in strong syllable.
+2.  If the word has two syllables, one of them has a syllabic consonant (nasals or liquids) with no vowel at all, then syllable that has the syllabic consonant is the weak syllable, for example ‘bottle’ /bɒt.ḷ/.
+3.  Any strong syllable will have its peak one of the vowel phonemes (or possibly a triphthong), but NOT i, u, or ə. If the vowel is short (ɪ, e, æ, Ʌ, ɒ, ʊ), then the strong syllable will always have a coda as well.
+
+### 9.1 Position of weak syllables in words
+
+1.  Weak syllables can occur at the end of the word with no coda. Examples: ‘better’ -\> \[bɛ.tə\], ‘happy’ -\> \[hæ.pi\] ‘thank you’ -\> \[θæŋk. juː\].
+
+2.  Weak syllables also can occur in the word-final position with a coda if the vowel is a schwa ə. Examples: ‘open’ and ‘sharpen’ -\> \[əʊ.pən\] and \[ʃɑː.pən\].
+
+3.  Weak syllables can occur also in the word-medial position without codas. Examples: ‘photograph’ and ‘influence’ -\> \[fəʊ.tə.ɡrɑːf\] and \[ɪn.flu.əns\]
+
+4.  The short vowel /ɪ/ can act as a peak without a coda which means it can be a weak syllable only if the following syllable starts with a consonant. Example: ‘architect’ -\> \[ɑː.kɪ.tekt\]
+
+### Stressed syllable vs unstressed syllable
+
+-   Strong syllable is stressed, but weak syllable is unstressed. What does that mean?
+-   Stressed syllable tend to be longer in duration, more prominent, more intense, louder, noticeable than the unstressed syllable.
+-   Strong syllables often receive primary stress in a word, while weak syllables tend to be unstressed or receive a secondary stress.
+
+# Strong Syllables Versus Weak Syllables
+
+| **Strong Syllables** | **Weak Syllables** |
+|-------------------------------------|-----------------------------------|
+| Strong syllables are longer lasting in terms of length. | Weak syllables are short in terms of length. |
+| They are louder and have higher intensity. | They are quite low and have low intensity. |
+| They are articulated with high quality. | They are articulated with low quality. |
+| We do not pronounce them rapidly. | They are said more quickly in words. |
+| They are always stressed syllables. | They can never be stressed. |
+| They are composed of all vowel sounds except /ə, ɪ, ʊ/ as their peak. | They are composed of only /ə, ɪ, ʊ/ vowel sounds plus syllabic consonants /m, n, ŋ, l, r/ as their peak. |
+| Short vowel sound peaks of strong syllables should always have a coda. | /ə, ɪ, ʊ/ should not always have a coda. |
+
+# Weak (unstressed syllable) charachterstics
+
+Weak Syllable has one of these sounds:
+
+1.  /ə/
+2.  /i/
+3.  /u/
+4.  syllabic consonants (/m̩ , n̩, ŋ̩, l,̩ r̩/ ).
+
+## 9.2 The schwa (ə) vowel
+
+-   Schwa is always associated with a weak syllable.
+
+-   It is a mid-central vowel. It is lax not tensed vowel; it is not articulated with much energy.
+
+-   Not all weak syllables contain ə, though many do.
+
+## Possible Positions of ‘Schwa’ Sound in Words
+
+1.  Spelt with ‘a’; strong pronunciation may be /æ/- attend \[ǝ.tend\]
+2.  Spelt with ‘ar’; strong pronunciation may be /ɑː/- particular / \[pə.tɪk.jə.lə\]
+3.  Adjectival endings spelt ‘ate’; strong pronunciation may be /eɪ/- intimate /\[ɪn.tɪ.mət\]
+4.  Spelt with ‘o’; strong pronunciation may be /ɒ/ or /ǝʊ/- tomorrow /tǝ.mɒ.rǝʊ/
+5.  Spelt with ‘or’; strong pronunciation may be /ɔː /- forget /fǝ.get/6. Spelt with ‘e’; strong pronunciation may be /e/- violet /vaɪə.lət/7. Spelt with ‘er’; strong pronunciation may be /ɜː/- perhaps /pǝ.hæps/
+6.  Spelt with ‘u’; strong pronunciation may be /ʌ/- support /sə.pɔːt/9. Spelt with ‘ough’; there are many pronunciations, like /f/- /ǝʊ/- /aʊ/- borough’ /bʌr.ə/
+7.  Spelt with ‘ou’; strong pronunciation may be /aʊ/- gracious \[ɡreɪ.ʃəs\]
+
+## 9.3 Close front and close back vowels
+
+| **Close front unrounded vowels** | **Close back rounded vowels** |
+|----------------------------------|-------------------------------|
+| /i:/ and /ɪ/                     | /u:/ and /ʊ/                  |
+| beat /biːt/                      | blue /blu:/                   |
+| bit /bɪt/                        | book /bʊk/                    |
+| easy /iːzi/                      |                               |
+| busy /bɪzi/                      |                               |
+
+Two other vowels are commonly found in weak syllables, one is close front that is in the general are of /i:/ and /ɪ/ vowels, and the other one is close back rounded vowel that is in the general area of /u:/ and /ʊ/ vowels.
+
+### Possible Positions of /i/ and /u/ Sounds in Words
+
+-   **Possible Positions of ‘close front unrounded vowel /i/’ Sound in Words**\
+-   **Possible Positions of ‘close back rounded vowel /u/’ Sound in Words**
+    -   Check these positions in your book and see where weak syllables of these two phonemes occur.
+
+------------------------------------------------------------------------
+
+## 9.4 Syllabic Consonants
+
+-   Nasals and liquids in English are characterised as syllabic consonants. They can occupy the peak of the syllable instead of the vowel and it is considered as a weak syllable. A syllabic consonant is a consonant that forms a syllable of its own.
+
+-   The syllabic consonants replacing the schwa in an unstressed syllable.
+
+-   Syllabic consonants are typically indicated by using a diacritic called the syllabic marker, which is a small vertical line placed underneath the consonant symbol, as \[n̩\], \[m̩\], \[ŋ̩\] \[l̩\] and \[r̩\]. r̩\]).
+
+------------------------------------------------------------------------
+
+### 9.4.1 Syllabic /l̩/
+
+-   It is considered the most noticeable example of syllabic consonant in English. But it would be wrong to expect to find it in all accents.
+-   Syllabic \[l̩\] is considered a velarised dark \[l\].
+-   It occurs after another consonant.
+-   It always occurs at the end part of the words; not initial or middle.
+
+| **Examples** | **Phonetic Transcription** |
+|--------------|----------------------------|
+| bottle       | \[bɒt.l̩\]                  |
+| tunnel       | \[tʌn.l̩\]                  |
+| cattle       | \[kæt.l̩\]                  |
+| muddle       | \[mʌd.l̩\]                  |
+
+------------------------------------------------------------------------
+
+### 9.4.2 Syllabic /n̩/
+
+-   The syllabic nasals are \[n̩\], \[m̩\] and \[ŋ ̩\]. However, \[n̩\] is the most frequently found and the most important one.
+-   Syllabic n̩ is most common after alveolar plosives and fricatives.
+-   Syllabic n̩ do not occur after these segments l, ʧ, ʤ. So, that means n is not syllabic in these examples: ‘sullen’, ‘Christian’ and ‘pigeon’ \[sʌlən\], \[krɪsʧən\]  and \[pɪʤən\].
+-   Syllabic n after non-alveolar consonants is not very common.
+-   Syllabic n is very common after f and v than \[ən\] except in word-initial syllables as in \[sɛv.n̩\], \[ɒf.n̩\], \[hɛv.n̩\].
+
+------------------------------------------------------------------------
+
+### 9.4.3 Syllabic /m̩/ and /ŋ̩/
+
+-   These two segments occur as syllabic only as a result of assimilation and elision.
+-   Assimilation: is a sound change in which some phonemes (typically consonants or vowels) change to become more similar to other nearby sounds.
+-   Elision: is the omission of sounds, syllables or words in speech.
+
+Examples:
+
+1.  ‘happen’ would be pronounced as \[hæpm̩\], \[hæpn̩\] and \[hæpən\]
+2.  Syllabic velar nasal is \[ŋ\]  ‘thicken’ /θɪkŋ̩/
+3.  In ‘broken key’ /brǝʊkŋ ̩ki:/, where the nasal consonant occurs between two velar consonants.
+
+------------------------------------------------------------------------
+
+### 9.4.5 Syllabic /r̩/
+
+-   A rhotic accent is an accent that always pronounces the rhotic /r/ consonant sound whenever it appears in words. In most American accents, syllabic r is very common. For instance, the pronunciation of the word ‘particular’ varies based on the accent the speakers use.
+
+| **American English** | **British English BBC Speakers** |
+|----------------------|----------------------------------|
+| \[pɚtɪkələr\]        | \[pətɪkjələ\]                    |
+
+-   Minimal pairs (a difference in meaning appears to depend on whether a particular r is syllabic or not.
+-   ‘Hungary’ \[hʌŋɡr̩i\] vs ‘hungry’ \[hʌŋɡri\]
+
+------------------------------------------------------------------------
+
+## 9.5 Combination of Syllabic Consonants
+
+Two syllabic consonants may occur together, and it is not strange to have two syllabic consonant together, for instance:
+
+| **Examples** | **Phonetic Transcription** |
+|--------------|----------------------------|
+| national     | \[næʃ.n̩.l̩\]                |
+| literal      | \[lɪt.r̩.l̩\]                |
+| visionary    | \[vɪʒ.n̩.r̩.i\]              |
+| veteran      | \[vet.r̩.n̩\]                |
+
+------------------------------------------------------------------------
+
+## Coming Up
+
+-   Read Chapter 10: Stress in Simple Words.
+
+#### Chapter 10
+
+# Stress in Simple words
+
+### Last Lecture
+
+-   Strong and weak syllable and how could we distinguish between two syllables based on phonetic characteristics of the syllable.\
+-   Strong syllable usually gets stress.\
+-   Syllables that have i, u, ə and syllabic consonants are weak syllables and they never get the primary stress.
+
+------------------------------------------------------------------------
+
+### This Lecture
+
+-   We will cover the stress in simple words. Simple words refer to words of only one grammatical unit, for example, either nouns, verbs or adjectives.
+    -   What are the characteristics of stressed syllable?\
+    -   How could we identify stressed syllable in a word that has many syllables?\
+    -   Levels of stress.\
+    -   Stress placement in different words.
+
+------------------------------------------------------------------------
+
+### How could we identify the stressed syllable in a word?
+
+-   Stressed syllable is marked in transcription by placing a small vertical line (‘) before the stressed syllable, as occur in \[ˈfɑː.ðə\].\
+-   To identify the stressed syllable in a word, we should consider:
+    -   How the speaker produce the syllable (production).\
+    -   How the listener hear the syllable (perception).
+
+From production point of view:\
+- The stressed syllable depends on the speaker using more muscular energy than is used for unstressed syllable.
+
+From perceptual point of view:\
+- All stressed syllables have one feature in common, and that is prominence.
+
+------------------------------------------------------------------------
+
+### The nature of stress
+
+There are some characterises that make stressed syllable more noticeable and more prominent in a word (at least 4):
+
+-   It is louder (has more intensity). Loudness is a component of prominence. In a sequence of identical syllables (e.g. ba:ba:ba:ba :), if one syllable is made louder than the others, it will be heard as stressed.\
+-   It is longer in duration than the unstressed one. If one of the syllables in our “nonsense word” ba:ba:ba:ba : is made longer than the others, there is quite a strong tendency for that syllable to be heard as stressed.\
+-   It has a higher pitch (frequency of vibration of the vocal folds and to the musical notion of low- and Sigh-pitched notes). It is essentially a perceptual characteristic of speech.\
+-   It contains a vowel that is different in quality from neighbouring vowels. If we change one of the vowels in our “nonsense word” (e.g. ba:bi:ba:bai) the “odd” syllable bi: will tend to be heard as stressed.
+
+Prominence is produced by four factors: loudness, length, pitch and quality.
+
+**Remember:**\
+- The strongest effect to determine stressed syllable is produced by pitch, and length.\
+- Loudness and quality have much less effect to identify stressed syllable.
+
+------------------------------------------------------------------------
+
+### Stress placement in different words
+
+| **Stress falls in first syllable** | **Stress falls in second syllable** | **Stress falls in last syllable** |
+|----|----|----|
+| [father (ˈfɑː.ðə)](https://dictionary.cambridge.org/us/pronunciation/english/father) | [potato (pə.ˈteɪ.təʊ)](https://dictionary.cambridge.org/us/pronunciation/english/potato) | [about (ə.ˈbaʊt)](https://dictionary.cambridge.org/us/pronunciation/english/about) |
+| [open (ˈəʊ.pən)](https://dictionary.cambridge.org/us/pronunciation/english/open) | [apartment (ə.ˈpɑːt.mənt)](https://dictionary.cambridge.org/us/pronunciation/english/apartment) | [receive (rɪ.ˈsiːv)](https://dictionary.cambridge.org/us/pronunciation/english/receive) |
+| [camera (ˈkæm.rə)](https://dictionary.cambridge.org/us/pronunciation/english/camera) | [relation (rɪ.ˈleɪ.ʃən)](https://dictionary.cambridge.org/us/pronunciation/english/relation) | [perhaps (pə.ˈhæps)](https://dictionary.cambridge.org/us/pronunciation/english/perhaps) |
+
+<br>
+
+-   Stressed syllables in these examples either have long vowels, or diphthongs or short vowel closed by a consonant or a cluster, but this consonant is not a schwa.
+
+------------------------------------------------------------------------
+
+### Levels of stress
+
+In this chapter, we explain stress within the word in isolation.\
+There are different levels of stress in English:
+
+-   **Primary stress:** The strongest type of stress.
+    -   Example: In the word \[ə.ˈbaʊt \], the stress falls on the last syllable because the first one is weak (schwa).\
+    -   When we pronounce the second syllable of this word, the pitch of the voice falls from a higher to a lower pitch (does not remain level).\
+-   **Secondary stress:** The syllable with a secondary stress will have a stress but it weaker than the syllable that has the primary stress and it is marked by a low mark (,).
+
+| **word** | **primary stress** | **secondary stress** | **audio** |
+|----|----|----|----|
+| [photographic (ˌfəʊ.tə.ˈgræ.fɪk)](https://dictionary.cambridge.org/us/pronunciation/english/photographic) | [ˈgræ](https://dictionary.cambridge.org/us/pronunciation/english/graphic) | [ˌfəʊ](https://dictionary.cambridge.org/us/pronunciation/english/photo) | [🔊](https://dictionary.cambridge.org/us/pronunciation/english/photographic) |
+| [anthropology (ˌæn.θrə.ˈpɒ.lə.dʒi)](https://dictionary.cambridge.org/us/pronunciation/english/anthropology) | [ˈpɒ](https://dictionary.cambridge.org/us/pronunciation/english/anthropology) | [ˌæn](https://dictionary.cambridge.org/us/pronunciation/english/ology) | [🔊](https://dictionary.cambridge.org/us/pronunciation/english/anthropology) |
+
+-   Examples: ‘photographic’ and ‘anthropology’ have both primary and secondary stress.\
+-   **Unstressed syllable:** It is regarded as being the absence of any recognisable amount of prominence.
+    -   It is worth noting that unstressed syllables containing (i , u, ɪ , ə) or syllabic consonants as explained in the previous chapter.
+
+------------------------------------------------------------------------
+
+### Placement of stress within word
+
+Some languages have really simple predictable stress rules.\
+- For instance, in Icelandic, the primary stress always falls on the first syllable.\
+- In French, the stress falls on the last syllable.\
+- In Czech, the stress falls on the first syllable.
+
+Unfortunately, in English, stress assignment is not that simple.
+
+### To determine the placement of the stressed syllable in a word, you should consider the following:
+
+-   Type of word morphologically: simple or complex.\
+-   Is the word noun, verb or adjective?\
+-   Determine the grammatical category of the word.\
+-   How many syllables the word has based on syllabification.\
+-   What the phonological structure of those syllables is (strong or weak).
+
+**Remember:**\
+- A strong syllable has a rime that has (peak and coda) where the peak can be occupied by a long vowel or diphthong, or a short vowel (not schwa) followed by coda consonant (one or more).\
+- Weak syllables have a peak which is occupied by a short vowel and no coda unless the vowel is a schwa.
+
+------------------------------------------------------------------------
+
+### Stress on one-syllable word
+
+-   Single-syllable words have no problems because they are pronounced with a primary stress.
+    -   Examples: "jump", "buy", "heat", "sure", "cough", are examples of monosyllables (words that have only one syllable).
+
+------------------------------------------------------------------------
+
+### Stress on Two-Syllable Words
+
+-   In a word that has two syllables, either the first or the second will attract stress, but not both.\
+
+-   Strong syllables are stressed, but weak syllables are always unstressed.
+
+-   If the second syllable of the verb is strong, then it is stressed, like:
+
+|  |  |
+|----|----|
+| [apply (ə.ˈplaɪ)](https://dictionary.cambridge.org/us/pronunciation/english/apply) | [attract (ə.ˈtrækt)](https://dictionary.cambridge.org/us/pronunciation/english/attract) |
+| [arrive (ə.ˈraɪv)](https://dictionary.cambridge.org/us/pronunciation/english/arrive) | [assist (ə.ˈsɪst)](https://dictionary.cambridge.org/us/pronunciation/english/assist) |
+
+### Stress on Two-Syllable Verbs
+
+-   If the final syllable is weak (revise the characteristics of weak syllables that we covered in the previous lecture), then the first syllable is stressed.
+
+|  |  |
+|----|----|
+| [enter (ˈɛn.tə)](https://dictionary.cambridge.org/us/pronunciation/english/enter) | [open (ˈəʊ.pən)](https://dictionary.cambridge.org/us/pronunciation/english/open) |
+| [envy (ˈɛn.vi)](https://dictionary.cambridge.org/us/pronunciation/english/envy) | [equal (ˈiː.kwəl)](https://dictionary.cambridge.org/us/pronunciation/english/equal) |
+
+-   A final syllable is also unstressed if it contains əʊ as occur in follow \[ˈfɒ.ləʊ\] and borrow \[ˈbɒ.rəʊ\].
+
+------------------------------------------------------------------------
+
+### Stress on Two-Syllable Adjectives
+
+-   Two-syllable simple adjectives follow the same rule of two-syllable verb mentioned above.
+
+|  |  |  |
+|----|----|----|
+| [lovely (ˈlʌv.li)](https://dictionary.cambridge.org/us/pronunciation/english/lovely) | [even (ˈiːv.ən)](https://dictionary.cambridge.org/us/pronunciation/english/even) | [hollow (ˈhɒ.ləʊ)](https://dictionary.cambridge.org/us/pronunciation/english/hollow) |
+| [divine (dɪ.ˈvaɪn)](https://dictionary.cambridge.org/us/pronunciation/english/divine) | [correct (kə.ˈrekt)](https://dictionary.cambridge.org/us/pronunciation/english/correct) | [alive (ə.ˈlaɪv)](https://dictionary.cambridge.org/us/pronunciation/english/alive) |
+
+-   Some words end with strong syllables but the stress fall on the first syllable.
+    -   Example: honest \[ˈɒ.nɪst\].\
+    -   Example: perfect \[ˈpɜː.fɛkt\].
+
+------------------------------------------------------------------------
+
+### Stress on Two-Syllable Nouns
+
+-   If the second syllable of nouns has a short vowel, then the stress fall on the first syllable. Otherwise, it will be in the second syllable.
+
+|  |  |  |
+|----|----|----|
+| [money (ˈmʌn.i)](https://dictionary.cambridge.org/us/pronunciation/english/money) | [larynx (ˈlær.ɪŋks)](https://dictionary.cambridge.org/us/pronunciation/english/larynx) | [estate (ɪ.ˈsteɪt)](https://dictionary.cambridge.org/us/pronunciation/english/estate) |
+| [product (ˈprɒ.dʌkt)](https://dictionary.cambridge.org/us/pronunciation/english/product) | [design (dɪ.ˈzaɪn)](https://dictionary.cambridge.org/us/pronunciation/english/design) | [balloon (bə.ˈluːn)](https://dictionary.cambridge.org/us/pronunciation/english/balloon) |
+
+------------------------------------------------------------------------
+
+### Three-syllable words
+
+-   If a verb has three syllables where the last syllable is strong, then it is stressed.
+
+|  |  |
+|----|----|
+| [entertain (ɛn.tə.ˈteɪn)](https://dictionary.cambridge.org/us/pronunciation/english/entertain) | [resurrect (rɛ.zə.ˈrɛkt)](https://dictionary.cambridge.org/us/pronunciation/english/resurrect) |
+
+-   If the last syllable is weak, then it will be unstressed, and the stress will be placed on the penultimate syllable.
+
+|  |  |
+|----|----|
+| [encounter (ɪn.ˈkaʊn.tə)](https://dictionary.cambridge.org/us/pronunciation/english/encounter) | [determine (dɪ.ˈtɜː.mɪn)](https://dictionary.cambridge.org/us/pronunciation/english/determine) |
+
+-   If both the second and third are weak, then stress falls on the first syllable of noun.
+
+|  |  |
+|----|----|
+| [parody (ˈpæ.rə.di)](https://dictionary.cambridge.org/us/pronunciation/english/parody) | [monitor (ˈmɒ.nɪ.tə)](https://dictionary.cambridge.org/us/pronunciation/english/monitor) |
+
+-   If the final syllable of a noun is weak (for instance, it ends with a schwa or əʊ), then it is unstressed.
+    -   You should then check the preceding syllable.\
+    -   If it is strong, then it is stressed.
+
+|  |  |
+|----|----|
+| [potato (pə.ˈteɪ.təʊ)](https://dictionary.cambridge.org/us/pronunciation/english/potato) | [disaster (dɪ.ˈzɑː.stə)](https://dictionary.cambridge.org/us/pronunciation/english/disaster) |
+| [mimosa (mɪ.ˈməʊ.sə)](https://dictionary.cambridge.org/us/pronunciation/english/mimosa) | [synopsis (sɪ.ˈnɒp.sɪs)](https://dictionary.cambridge.org/us/pronunciation/english/synopsis) |
+
+-   If the second and third syllables of a noun are both weak, then the first syllable is stressed.
+
+|  |  |
+|----|----|
+| [quantity (ˈkwɒn.tə.ti)](https://dictionary.cambridge.org/us/pronunciation/english/quantity) | [custody (ˈkʌs.tə.di)](https://dictionary.cambridge.org/us/pronunciation/english/custody) |
+| [cinema (ˈsɪ.nə.mə)](https://dictionary.cambridge.org/us/pronunciation/english/cinema) | [emperor (ˈem.pə.rə)](https://dictionary.cambridge.org/us/pronunciation/english/emperor) |
+
+------------------------------------------------------------------------
+
+### Three-syllable words
+
+-   Most of the rules mentioned above show that stress tending to fall on strong syllables.\
+-   However, three-syllable simple nouns are different.
+    -   Even if the final syllable is strong, the stress falls on the first syllable.\
+    -   The last syllable is usually quite prominent.\
+    -   So, it gets secondary stress.
+
+|  |  |
+|----|----|
+| [intellect (ˈɪn.tə.lɛkt)](https://dictionary.cambridge.org/us/pronunciation/english/intellect) | [marigold (ˈmær.ɪ.ɡəʊld)](https://dictionary.cambridge.org/us/pronunciation/english/marigold) |
+| [alkali (ˈæl.kə.laɪ)](https://dictionary.cambridge.org/us/pronunciation/english/alkali) | [stalactite (ˈstæl.ək.taɪt)](https://dictionary.cambridge.org/us/pronunciation/english/stalactite) |
+
+-   Adjectives are also follow the same exceptional rule of nouns mentioned above to place the stress in three-syllable words.
+
+|  |  |
+|----|----|
+| [opportune (ˈɒp.ə.tjuːn)](https://dictionary.cambridge.org/us/pronunciation/english/opportune) | [insolent (ˈɪn.sə.lənt)](https://dictionary.cambridge.org/us/pronunciation/english/insolent) |
+| [derelict (ˈder.ə.lɪkt)](https://dictionary.cambridge.org/us/pronunciation/english/derelict) | [anthropoid (ˈæn.θrə.pɔɪd)](https://dictionary.cambridge.org/us/pronunciation/english/anthropoid) |
+
+------------------------------------------------------------------------
+
+### Watch this video on three Syllable Stress Patterns
+
+[Three-Syllable Stress Patterns](https://youtu.be/nh3GZHf1GuA?si=Yrg5Q5ZdLL5TBTnY)
+
+------------------------------------------------------------------------
+
+### Coming up
+
+-   Revise the three chapters that I have already explained (8,9,10 in your book).\
+-   Do the exercises that were uploaded on the blackboard.\
+-   Read Chapter 11 (Complex Word stress).
+
+#### Chapter 11
+
+# Complex Word Stress
+
+------------------------------------------------------------------------
+
+## Last Lecture
+
+-   Explained stress in simple words.\
+-   Discussed main characteristics of stressed syllables:
+    -   Loudness, length, pitch, and quality.\
+-   Focused on primary stress.\
+-   Covered stress assignment on simple words (two-syllable and three-syllable words of verbs, adjectives, and nouns).
+
+------------------------------------------------------------------------
+
+## This Week
+
+-   Differences between simple and complex words.\
+-   Types of complex words.\
+-   How affixes affect stress placement in a word.\
+-   Stress placement in compound words.
+
+------------------------------------------------------------------------
+
+## 11.1 Complex Words
+
+### Definition:
+
+-   Simple words: One grammatical unit (noun, verb, or adjective).\
+-   Complex words: Consist of more than one grammatical unit.
+    -   Example:
+        -   **care** (simple word).\
+        -   **careful** or **careless** (complex words).\
+        -   **carefully** (complex word with three grammatical units).
+
+------------------------------------------------------------------------
+
+### Types of Complex Words:
+
+1.  **Affixes**:
+    -   **Prefixes**: Bound morphemes before the stem (e.g., un-, il-, dis-).\
+    -   **Suffixes**: Bound morphemes after the stem (e.g., -ment, -ness, -tion).
+2.  **Compound Words**:
+    -   Two independent words combined (e.g., armchair, arm-chair, arm chair).
+
+------------------------------------------------------------------------
+
+### Effects of Affixes on Stress:
+
+1.  The affix itself receives primary stress.
+    -   **Examples**:
+        -   **personality**:
+            -   Prefix: -\
+            -   Stem: **person**\
+            -   Suffix: **-ality**\
+            -   Stress: \[pɜː.sn.ˈæl.ɪ.ti\]\
+        -   **semicircle**:
+            -   Prefix: **semi**\
+            -   Stem: **circle**\
+            -   Suffix: -\
+            -   Stress: \[ˈsɛm.ɪ.sɜː.kəl\]
+2.  The word is stressed as if the affix is not there.
+    -   **Examples**:
+        -   **unpleasant**:
+            -   Prefix: **un**\
+            -   Stem: **pleasant**\
+            -   Suffix: -\
+            -   Stress: \[ʌnˈplɛz.ənt\]
+3.  Stress remains on the stem but shifts to a different syllable.
+    -   **Examples**:
+        -   **magnet → magnetic**:
+            -   Prefix: -\
+            -   Stem: **magnet**\
+            -   Suffix: **-ic**\
+            -   Stress: \['mæɡ.nət\] + \[ɪk\] → \[mæɡ.ˈnɛt.ɪk\]
+
+------------------------------------------------------------------------
+
+## 11.2 Suffixes
+
+### 11.2.1 Suffixes Carrying Primary Stress
+
+-   If the stem has more than one syllable:
+    -   Secondary stress falls on the first syllable of the stem.\
+    -   Primary stress shifts to the suffix.
+
+**Examples:**\
+- **Japan + -ese**:\
+- Before: \[ʤə.ˈpæn\].\
+- After: \[ʤæ.pə.ˈniːz\] (primary stress on suffix, secondary stress on first syllable).\
+- **Volunteer + -eer**:\
+- Before: \[ˌvɒl.ən\].\
+- After: \[ˌvɒ.lən.ˈtɪə\] (primary stress on suffix).
+
+### Common Suffixes with Primary Stress:
+
+-   **-ee**: \[ˌrɛf.jʊ.ˈʤiː\] (e.g., referee, refugee).\
+-   **-eer**: \[ˌvɒ.lən.ˈtɪə\] (e.g., engineer, volunteer).\
+-   **-ese**: \[ˌpɔː.ʧə.ˈgiːz\] (e.g., Portuguese, Japanese).\
+-   **-ette**: \[ˌsɪɡr̩.ˈet\] (e.g., cigarette, cassette).\
+-   **-esque**: \[ˌpɪk.ʧə.ˈrɛsk\] (e.g., picturesque, grotesque).\
+-   **-ality**: \[ˌnæ.ʃən.ˈæɪlɪti\] (e.g., nationality, originality).
+
+------------------------------------------------------------------------
+
+### 11.2.2 Suffixes That Do Not Affect Stress Placement
+
+-   The stress pattern of the stem remains unchanged.\
+    \# These suffixes do not get primary stress in complex words
+
+| **Suffix** | **Word** | **Transcription** | **Word with Suffix** | **Transcription** |
+|--------------|--------------|--------------|---------------|--------------|
+| **-able**  | comfort  | /ˈkʌm.fət/        | comfortable          | /ˈkʌm.fə.tə.bəl/  |
+| **-age**   | anchor   | /ˈæŋ.kər/         | anchorage            | /ˈæŋ.kər.ɪʤ/      |
+| **-al**    | refuse   | /rɪˈfjuːz/        | refusal              | /rɪˈfjuː.zəl/     |
+| **-en**    | wide     | /ˈwaɪd/           | widen                | /ˈwaɪ.dən/        |
+| **-less**  | power    | /ˈpaʊ.ə/          | powerless            | /ˈpaʊ.ə.ləs/      |
+| **-ly**    | hurried  | /ˈhʌr.id/         | hurriedly            | /ˈhʌr.id.li/      |
+| **-ment**  | punish   | /ˈpʌn.ɪʃ/         | punishment           | /ˈpʌn.ɪʃ.mənt/    |
+| **-ness**  | red      | /ˈred/            | redness              | /ˈred.nəs/        |
+
+------------------------------------------------------------------------
+
+### 11.2.3 Suffixes Influencing Stress in the Stem
+
+-   Some suffixes shift the stress within the stem.\
+-   Stress Changes with Suffix Addition
+
+| **Suffix**  | **Stress before adding suffix** | **Stress after adding suffix** |
+|----------------|----------------------------|----------------------------|
+| **-eous**   | \[æd.ˈvɑːn.trʌʤ\]               | \[æd.vən.ˈteɪ.dʒəs\]           |
+| **-graphy** | \[ˈfəʊ.təʊ\]                    | \[fə.ˈtɒ.ɡrə.fi\]              |
+| **-ial**    | \[ˈprɒ.vəb\]                    | \[prə.ˈvɜː.bi.əl\]             |
+| **-ic**     | \[ˈklaɪ.mət\]                   | \[klaɪ.ˈmæ.tɪk\]               |
+| **-ion**    | \[ˈpɜː.fɛkt\]                   | \[pə.ˈfɛk.ʃən\]                |
+| **-ious**   | \[ˈɪn.dʒə\]                     | \[ɪn.ˈdʒʊə.ri.əs\]             |
+| **-ty**     | \[ˈtræn.kwɪl\]                  | \[træn.ˈkwɪ.lə.ti\]            |
+| **-ive**    | \[ˈrɪ.fleks\]                   | \[rɪ.ˈflek.sɪv\]               |
+
+------------------------------------------------------------------------
+
+## 11.3 Prefixes
+
+-   Effects on stress are irregular and less productive than suffixes.\
+-   Prefixes are not considered here.
+
+------------------------------------------------------------------------
+
+## 11.4 Compound Words
+
+### Stress Placement in Compound Words:
+
+1.  **Noun + Noun**:
+
+    -   Stress falls on the first noun (e.g., armchair, sunflower).
+
+    # Stress in Compound Words: **Noun + Noun**
+
+| **First Word** | **Second Word** | **Compound Word** | **Stress on Compound Word** |
+|----------------|----------------|----------------|------------------------|
+| **type** | writer | type-writer | ˈtaɪp.raɪ.tə |
+| **car** | ferry | car-ferry | ˈkɑː.fe.ri |
+| **sun** | rise | sun-rise | ˈsʌn.raɪz |
+| **tea** | cup | tea-cup | ˈtiː.kʌp |
+| **suit** | case | suit-case | ˈsuːt.keɪs |
+
+2.  **Adjective + Word Ending in -ed**:
+    -   Stress falls on the second word (e.g., bad-ˈtempered, heavy-ˈhanded).
+3.  **Number + Word**:
+    -   Stress falls on the second word (e.g., five-ˈfingers, three-ˈwheeler).
+4.  **Adverbial Compounds**:
+    -   Stress falls on the second word (e.g., head-ˈfirst, North-ˈEast).
+5.  **Verb Compounds with Adverbial First Element**:
+    -   Stress falls on the second word (e.g., down-ˈgrade, ill-ˈtreat).
+
+**Summary:**\
+- Stress usually falls on the second word, except in **Noun + Noun**, where it falls on the first noun.
+
+------------------------------------------------------------------------
+
+## 11.5 Variable Stress
+
+-   Stress in English is not always fixed:
+    -   Can be influenced by stress in neighboring words.\
+    -   Speakers may differ in stress placement for some words.
+
+------------------------------------------------------------------------
+
+## 11.6 Word-Class Pairs
+
+-   Stress in English is lexical:
+    -   **Nouns and Adjectives**: Primary stress on the first syllable.\
+    -   **Verbs**: Primary stress on the second syllable.
+
+# Stress Differences in Nouns/Adjectives vs Verbs
+
+| **Word** | **Nouns and Adjectives (first syllable is stressed)** | **Verbs (second syllable is stressed)** |
+|----------------|--------------------------------|-------------------------|
+| **abstract** | \['æb.strækt\] | \[æb.'strækt\] |
+| **conduct** | \['kɒn.dʌkt\] | \[kən.'dʌkt\] |
+| **contract** | \['kɒn.trækt\] | \[kən.'trækt\] |
+| **contrast** | \['kɒn.trɑːst\] | \[kən.'trɑːst\] |
+| **desert** | \['dɛ.zət\] | \[dɪ.'zɜːt\] |
+| **permit** | \['pɜː.mɪt\] | \[pə.'mɪt\] |
+| **record** | \['rɛ.kɔːd\] | \[rɪ.'kɔːd\] |
+| **produce** | \['prɒ.djuːs\] | \[prə.'djuːs\] |
+| **subject** | \['sʌb.dʒɪkt\] | \[səb.'dʒɛkt\] |
+
+------------------------------------------------------------------------
+
+## Coming Up
+
+-   Prepare for the quiz.\
+-   Read Chapter 12 (Weak Forms).
+
+#### Chapter 12
+
+# Weak forms
+
+## Last week
+
+Last week, we explained Chapter 11, which is entitled 'Complex Word Stress’. Complex words were defined as words consisting of more than one grammatical unit. We explained two major types of complex words: those formed by combining a stem with an affix, and compound words. We discussed three different cases of how suffixes affect stress placement in words. In compound words, stress usually falls on the second word, except when both words are nouns, in which case the first noun attracts stress.
+
+## This week
+
+Weak forms and strong forms of function words. Function words are the words that cannot occur by themselves in a sentence (grammar words). They should be attached to content words (noun, adjective, verb, and adverb). Function words have both strong and weak forms, but the context determines which form should be used. Which words have weak forms, when to use them, and how to pronounce them correctly?
+
+## Weak forms
+
+In the previous weeks, we focused on syllables. Now, we move to words. Some English words can be pronounced in two different ways; these are called strong forms and weak forms. For instance, the word ‘that’ can be pronounced as \[ðæt\] (strong form) or \[ðət\] (weak form): - "I like that" (strong form) - "I hope that she will" (weak form)
+
+We should distinguish between weak forms and contracted forms as they are not the same. Contracted forms are like: - it is → it’s - I have → I’ve - do not → don’t
+
+Not all words have weak forms. A type of word that has both strong and weak forms is called function words.
+
+## Function words
+
+Function words are words that do not have a dictionary meaning in the way that we normally expect nouns, verbs, adjectives, and adverbs to have. Examples of function words: - Auxiliary verbs (do, does, would, can, was, are, etc.) - Prepositions (of, at, on, in, about, etc.) - Conjunctions (and, but, that, etc.)
+
+The context helps determine whether the strong or weak form of a function word should be used.
+
+## The strong forms are used in the following cases:
+
+1.  When weak-form words occur at the end of a sentence:
+    -   Example: "I’m fond of chips" → /aɪ æm fɒnd ǝv tʃɪps/
+    -   "Chips are what I’m fond of" → /tʃɪps ǝ wɒt aɪ m fɒnd ɒv/
+2.  When a weak-form word is contrasted with another:
+    -   Example: "The letter’s from him, not to him" → /ðǝ letǝz frɒm ɪm nɒt tu: ɪm/
+3.  When a weak-form word is given stress for emphasis:
+    -   Example: "You must give me more money" → /ju mʌst gɪv mi mᴐ: mʌni/
+4.  When a weak-form word is being quoted:
+    -   Example: "You shouldn’t put 'and' at the end of a sentence" → /ju ʃʊdǝnt pʊt ænd ǝt ði end ǝv ǝ sentǝns/
+
+## Weak forms
+
+When should we use weak forms? In an English sentence, some words are pronounced with more stress than others. Generally, the words that carry the main meaning are stressed, while grammar words (function words) like prepositions and pronouns are not stressed. These unstressed words are pronounced using their weak forms.
+
+## Caution
+
+The last word in a sentence can never be weak. For instance: - "What are you looking at?" → The word "at" will be stressed in this case as \[æt\], not \[ət\].
+
+## Examples of weak forms:
+
+1.  ‘the’ weak forms:
+    -   /ðǝ/ (before consonants)
+    -   /ði/ (before vowels)
+2.  ‘a’, ‘an’ weak forms:
+    -   /ǝ/ (before consonants)
+    -   /ǝn/ (before vowels)
+3.  ‘and’ weak forms:
+    -   /ǝn/ (sometimes syllabic /n̩/)
+
+## Examples of weak forms continued with sentences:
+
+4.  **‘but’ weak form:**
+    -   Weak form: /bǝt/
+    -   Sentence: "It’s nothing but a joke." → /ɪts ˈnʌθɪŋ bǝt ǝ ˈdʒǝʊk/
+5.  **‘than’ weak form:**
+    -   Weak form: /ðǝn/
+    -   Sentence: "She’s taller than him." → /ʃiːz ˈtɔːlǝ ðǝn hɪm/
+6.  **‘that’ weak forms:**
+    -   Weak form: /ðǝt/
+    -   Sentence: "I hope that it’s true." → /aɪ ˈhǝʊp ðǝt ɪts truː/
+7.  **‘for’ weak form:**
+    -   Weak form: /fǝ/
+    -   Sentence: "This is for you." → /ðɪs ɪz fǝ juː/
+8.  **‘from’ weak form:**
+    -   Weak form: /frǝm/
+    -   Sentence: "He came from work." → /hi ˈkeɪm frǝm wɜːk/
+9.  **‘of’ weak form:**
+    -   Weak form: /ǝv/
+    -   Sentence: "The color of the car is red." → /ðǝ ˈkʌlǝr ǝv ðǝ ˈkɑː ɪz red/
+10. **‘to’ weak forms:**
+
+-   Weak forms: /tǝ/ (before consonants), /tu/ (before vowels)
+-   Sentence 1: "I want to sleep." → /aɪ ˈwɒnt tǝ ˈsliːp/
+-   Sentence 2: "I want to eat." → /aɪ ˈwɒnt tu iːt/
+
+11. **‘at’ weak form:**
+
+-   Weak form: /ǝt/
+-   Sentence: "He’s looking at the sky." → /hiz ˈlʊkɪŋ ǝt ðǝ ˈskaɪ/
+
+12. **‘by’ weak form:**
+
+-   Weak form: /bǝ/
+-   Sentence: "It was done by him." → /ɪt wǝz ˈdʌn bǝ hɪm/
+
+13. **‘can’ weak forms:**
+
+-   Weak forms: /kǝn/ (before consonants), /kn̩/ (syllabic /n/)
+-   Sentence: "She can play the piano." → /ʃiː kǝn ˈpleɪ ðǝ piˈænǝʊ/
+
+14. **‘could’ weak form:**
+
+-   Weak form: /kǝd/
+-   Sentence: "He said he could do it." → /hi ˈsed hi kǝd ˈdu ɪt/
+
+15. **‘shall’ weak form:**
+
+-   Weak form: /ʃǝl/
+-   Sentence: "We shall see." → /wi ʃǝl ˈsiː/
+
+16. **‘should’ weak form:**
+
+-   Weak form: /ʃǝd/
+-   Sentence: "You should try harder." → /ju ʃǝd ˈtraɪ ˈhɑːdǝ/
+
+17. **‘was’ weak forms:**
+
+-   Weak forms: /wǝz/ (before consonants), /wǝs/ (before vowels)
+-   Sentence 1: "It was cold." → /ɪt wǝz ˈkǝʊld/
+-   Sentence 2: "It was easy." → /ɪt wǝs ˈiːzi/
+
+18. **‘were’ weak form:**
+
+-   Weak form: /wǝ/
+-   Sentence: "They were happy." → /ðeɪ wǝ ˈhæpi/
+
+19. **‘have’ weak forms:**
+
+-   Weak forms: /hǝv/, /ǝv/
+-   Sentence: "They have done it." → /ðeɪ hǝv ˈdʌn ɪt/
+
+20. **‘has’ weak forms:**
+
+-   Weak forms: /hǝz/, /ǝz/
+-   Sentence: "She has arrived." → /ʃi hǝz ǝˈraɪvd/
+
+21. **‘had’ weak forms:**
+
+-   Weak forms: /hǝd/, /ǝd/
+-   Sentence: "He had left." → /hi hǝd ˈleft/
+
+22. **‘do’ weak form:**
+
+-   Weak form: /dǝ/
+-   Sentence: "Do you know him?" → /dǝ ju ˈnǝʊ hɪm/
+
+23. **‘does’ weak form:**
+
+-   Weak form: /dǝz/
+-   Sentence: "What does he do?" → /wɒt dǝz hi ˈduː/
+
+24. **‘am’ weak form:**
+
+-   Weak form: /ǝm/
+-   Sentence: "I am happy." → /aɪ ǝm ˈhæpi/
+
+25. **‘are’ weak form:**
+
+-   Weak form: /ǝ/
+-   Sentence: "They are here." → /ðeɪ ǝ ˈhɪǝ/
+
+26. **‘is’ weak forms:**
+
+-   Weak forms: /z/, /s/
+-   Sentence: "She is fine." → /ʃi z ˈfaɪn/
+
+27. **‘he’ weak forms:**
+
+-   Weak forms: /hi/, /i/
+-   Sentence: "He is here." → /i z ˈhɪǝ/
+
+28. **‘her’ weak forms:**
+
+-   Weak forms: /hǝ/, /ǝ/
+-   Sentence: "I saw her yesterday." → /aɪ ˈsɔː hǝ ˈjestǝdeɪ/
+
+## Coming up
+
+Read Chapter 14 (Aspects of connected speech).
+
+#### Chapter 14
+
+# Aspects of Connected Speech
+
+------------------------------------------------------------------------
+
+## Last Lecture
+
+We explained the weak forms in Chapter 12.\
+We noticed that there are some forms that have only weak forms and some others have both weak forms and strong forms in certain contexts.\
+The vowel of weak forms in most function words (not all) is a schwa.\
+Weak forms are associated with function words or grammar words.
+
+------------------------------------------------------------------------
+
+## Today’s Lecture
+
+In this lecture, I will talk about 4 aspects of connected speech: 1. Rhythm\
+2. Assimilation\
+3. Elision\
+4. Linking
+
+------------------------------------------------------------------------
+
+## Generally speaking:
+
+### Different aspects of connected speech
+
+When we speak, we do not produce each word individually.\
+We tend to connect or merge different words and syllables together in a normal speaking rate.
+
+------------------------------------------------------------------------
+
+## 1. Rhythm
+
+When English is spoken, the speaker alternates between stressed and unstressed syllables in regular intervals, with the stresses falling within **content words**.\
+This is called the Rhythm Rule.\
+The notion of rhythm involves some noticeable event (like stress and tone) happening at regular intervals of time.\
+It has been claimed that English speech is rhythmical where the rhythm is detectable in the regular occurrence of stressed syllables.
+
+------------------------------------------------------------------------
+
+## Rhythm
+
+English is described as a **stress-timed rhythm** which means that the stressed syllables tend to occur at relatively regular intervals whether they are separated by unstressed syllables or not.\
+This would not be the case in "mechanical speech".
+
+------------------------------------------------------------------------
+
+## Types of Rhythm
+
+The stress-timed rhythm theory states that the times from each stressed syllable to the next will tend to be the same, irrespective of the number of intervening unstressed syllables.\
+- **Stress-timed rhythm languages**: English, Arabic, and Russian.\
+- **Syllable-timed rhythm**: All syllables (stressed and unstressed) tend to occur at regular time intervals. The time between stressed syllables will be shorter or longer in proportion to the number of unstressed syllables.\
+These languages have a different rhythm from English (e.g., French, Yoruba, Italian, and Spanish).
+
+------------------------------------------------------------------------
+
+## Words Receiving Stress in English
+
+Lexical words which include:\
+- Nouns\
+- Verbs\
+- Adjectives\
+- Adverbs\
+- Negative words (no, not, never, without)
+
+------------------------------------------------------------------------
+
+## Theories of English Rhythm
+
+The unit of rhythm in English is called **foot**.\
+The foot begins with a stressed syllable and includes all the following unstressed syllables up to (but not including) the next stressed syllable.
+
+------------------------------------------------------------------------
+
+### Example:
+
+Let’s analyze the following sentence in terms of how many rhythmical feet it has:\
+**He arrived six o’clock**\
+- This sentence has 6 syllables, but not all are stressed.\
+- Stress falls on the content words:\
+\[hi . ə . ˈraɪvd . ˈsɪks . ə . ˈklɒk\]\
+- This means the sentence has **three feet**.
+
+------------------------------------------------------------------------
+
+## Practice: Write how many rhythmical feet the following sentences contain:
+
+1.  **ˈWalk \| ˈdown the \| ˈpath to the \| ˈend of the ca \| ˈnal** → (5 feet)\
+2.  **ˈJohn \| ˈwent to a \| ˈgood \| ˈschool in \| ˈLondon** → (5 feet)\
+3.  **He \| ˈsaw the \| ˈman with the \| ˈdog** → (3 feet)\
+4.  **She ad \| ˈmired the \| ˈsunset from the \| ˈwindow** → (3 feet)
+
+------------------------------------------------------------------------
+
+## Second Aspect of Connected Speech: Assimilation
+
+### Assimilation
+
+Assimilation is the change in the pronunciation of one sound or phoneme because of the surrounding sounds.\
+Assimilation occurs more likely in rapid and casual speech.
+
+------------------------------------------------------------------------
+
+### Direction of Assimilation:
+
+1.  **Regressive Assimilation**:
+    -   Occurs when the **Cf** (final consonant of the first word) changes to become like **Ci** (initial consonant of the second word).\
+    -   Example: **bright colour** → \[braɪk kʌlə\]
+2.  **Progressive Assimilation**:
+    -   Occurs when **Ci** changes to become like **Cf**.\
+    -   Example: **dogs** → \[dɒɡz\]
+3.  **Coalescent Assimilation**:
+    -   **t + j → ʧ** (e.g., not yet → \[nɒʧ ɛt\])\
+    -   **d + j → ʤ** (e.g., could you → \[kʊʤ juː\])
+
+------------------------------------------------------------------------
+
+### Types of Change in Assimilation
+
+1.  **Assimilation of Place of Articulation (POA)**:
+    -   **Alveolar + Bilabial → Bilabial**:
+        -   Example: *that person* → \[ðæp pɜːsᵊn\]
+        -   Example: *good boy* → \[ɡʊb bɔɪ\]
+    -   **Alveolar + Velar → Velar**:
+        -   Example: *that case* → \[ðæk keɪs\]
+    -   **Alveolar + Dental → Dentalised**:
+        -   Example: *get there* → \[ɡɛd̪ ðeə\]
+2.  **Assimilation of Manner of Articulation (MOA)**:
+    -   Found in rapid and casual speech.
+    -   Example: *that side* → \[ðæs saɪd\]
+    -   Example: *good night* → \[ɡʊn naɪt\]
+3.  **Assimilation of Voicing**:
+    -   **Regressive Assimilation**:
+        -   Example: *have to* → \[hæf tʊ\]
+        -   Example: *of course* → \[əf kɔːs\]
+
+------------------------------------------------------------------------
+
+## Third Aspect of Connected Speech: Elision
+
+### Elision
+
+The nature of elision may be stated simply: **under certain circumstances, sounds disappear**.\
+- Elision can be defined as a phoneme being realized as zero, deleted, or having zero realization. - Occurs in rapid and casual speech.
+
+------------------------------------------------------------------------
+
+### Different Cases of Elision in English:
+
+1.  **Loss of weak vowels** (unstressed) after /p/, /t/, /k/:
+    -   Example: *potato* → \[pˈteɪtəʊ\]\
+2.  **Avoidance of complex consonant clusters**:
+    -   Example: *acts* → \[æks\]\
+3.  **Loss of "of" before a consonant**:
+    -   Example: *waste of money* → \[weɪst ə mʌni\]
+
+------------------------------------------------------------------------
+
+## Fourth Aspect of Connected Speech: Linking
+
+### Linking
+
+In real connected speech, we link words together in several ways.
+
+### **Linking /r/**:
+
+-   When there is an **r** in the spelling at the end of a word, and the next word begins with a vowel, the **r** sound is pronounced.
+    -   Example: *here are* → \[hɪər ə\]\
+    -   Example: *four eggs* → \[fɔːr ɛgz\]
+
+### **Intrusive /r/**:
+
+-   BBC speakers use **r** to link words ending with a vowel, even when there is no **r** in the spelling.
+    -   Example: *media event* → \[miːdiər ɪvɛnt\]
+
+------------------------------------------------------------------------
+
+## Conclusion
+
+The four aspects of connected speech are:
+
+1.  Rhythm
+2.  Assimilation
+3.  Elision
+4.  Linking
+
+------------------------------------------------------------------------
+
+## Coming Up
+
+-   Read Chapter 15: Intonation 1
+
+#### Chapter 15
+
+# Intonation 1
+
+------------------------------------------------------------------------
+
+### Last Week
+
+-   Covered four aspects of connected speech:
+    1.  **Rhythm**\
+    2.  **Assimilation**\
+    3.  **Elision**\
+    4.  **Linking**
+
+------------------------------------------------------------------------
+
+### This Week
+
+-   Differentiating between **segmental** and **suprasegmental** phonology.\
+-   Intonation as a part of suprasegmental phonology.\
+-   Definition of intonation in terms of **pitch**.\
+-   Forms and functions of intonation.\
+-   Tone and tone languages.\
+-   Examples of different tones in monosyllabic words like "yes" and "no".
+
+------------------------------------------------------------------------
+
+### Segmental vs Suprasegmental Phonology
+
+-   **Segmental Phonology:**\
+    Focuses on individual speech sounds (segments) such as consonants and vowels.\
+-   **Suprasegmental Phonology:**\
+    Studies larger units of speech such as stress, tone, rhythm, and intonation.\
+    Also known as **prosodic phonology** or **prosody**.
+
+------------------------------------------------------------------------
+
+### Polysyllabic and Monosyllabic Words
+
+-   **Monosyllabic Words:**\
+    Contain only one syllable (e.g., "cat," "dog").\
+-   **Polysyllabic Words:**\
+    Contain two or more syllables (e.g., "computer," "unbelievable").
+
+------------------------------------------------------------------------
+
+### What Does Intonation Mean?
+
+-   **Pitch** plays a key role in intonation (degree of highness or lowness of tone).\
+-   Speaking with **fixed pitch** is rare and unnatural.\
+-   Intonation analysis involves listening to pitch variations (high or low).
+
+------------------------------------------------------------------------
+
+### 15.1 Form and Function in Intonation
+
+-   **Utterance:** A continuous piece of speech beginning and ending with a pause.\
+-   Tone in one-syllable words ("yes," "no") can be either:
+    1.  **Level Tone**\
+    2.  **Moving Tone**
+
+------------------------------------------------------------------------
+
+### Forms of Intonation for "Yes" and "No"
+
+1.  **Falling Tone (↘︎):**
+    -   Indicates definiteness or finality.\
+    -   Example: "Yes↘︎," "No↘︎"\
+2.  **Rising Tone (↗︎):**
+    -   Indicates questioning or uncertainty.\
+    -   Example: "Yes↗︎?" "No↗︎?"
+
+------------------------------------------------------------------------
+
+### 15.2 Tone and Tone Languages
+
+-   **English Intonation:** Does not distinguish meaning with tone.\
+-   **Tone Languages:**
+    -   The meaning of a word depends on the tone used.\
+    -   Examples:
+        -   **Kono (West Africa):**
+            -   "bɛŋ" (↗︎ uncle) vs. "bɛŋ" (\_ greedy).\
+            -   "buu" (↗︎ horn) vs. "buu" (\_ to be cross).\
+        -   **Mandarin Chinese:**
+            -   "ma" (↗︎ mother) vs. "ma" (↘︎ scold).
+
+------------------------------------------------------------------------
+
+### 15.3 Complex Tones and Pitch Height
+
+-   **Fall-Rise Tone (/):** Pitch descends and then rises.\
+-   **Rise-Fall Tone (/\\):** Pitch rises and then descends.
+
+------------------------------------------------------------------------
+
+### 15.4 Functions of English Tones
+
+1.  **Falling Tone ():**
+    -   Indicates finality.\
+    -   Example: "Yes," "No"\
+2.  **Rising Tone (/):**
+    -   Indicates more to follow.\
+    -   Example: "Yes/," "No/"\
+3.  **Fall-Rise Tone (/):**
+    -   Indicates limited agreement or hesitation.\
+    -   Example: "Yes/," "No/"\
+4.  **Rise-Fall Tone (/\\):**
+    -   Indicates strong feelings (e.g., surprise, approval).\
+5.  **Level Tone:**
+    -   Indicates routine or uninteresting speech.
+
+------------------------------------------------------------------------
+
+### Intonation in Dialogue
+
+-   Example:
+    -   **Speaker A:** Excuse me.\
+    -   **Speaker B:** Yes/ (indicates willingness to help).\
+    -   **Speaker A:** Do you know John Smith?\
+    -   **Speaker B:** Yes/ (invites continuation) or Yes (indicates finality).
+
+------------------------------------------------------------------------
+
+### 15.5 Tones on Other Words
+
+-   Tones can be applied to polysyllabic words.\
+-   Example:
+    -   Listing: Rising tone on all items except the last, which has a falling tone.\
+    -   "This train is for / Leeds, / York, / Manchester, and  Brighton."
+
+------------------------------------------------------------------------
+
+### Examples of Intonation Patterns
+
+1.  "I might not travel to London."
+    -   Intonation: "I / might not travel to London."\
+    -   **Fall-rise tone** indicates uncertainty.\
+2.  "Do you like your new teacher?"
+    -   Intonation: "Do you like your new / teacher?"\
+    -   **Rising tone** indicates a question.
+
+------------------------------------------------------------------------
+
+### Watch These Links for More Examples:
+
+-   [Yes Tones](https://www.youtube.com/watch?v=3kEHg7cYlP0)\
+-   [No Tones](https://www.youtube.com/watch?v=QWPYXr1ru90)
+
+------------------------------------------------------------------------
+
+### Coming Up
+
+-   Read Chapter 16 (Intonation 2).
+
+#### Chapter 16
+
+# Intonation 2
+
+------------------------------------------------------------------------
+
+### 16.3 Pitch Possibilities in the Simple Tone-Unit
+
+-   **Tone** is carried by the tonic syllable.\
+-   **Intonation** is carried by the tone-unit.
+
+### If the tonic syllable is the final syllable:
+
+-   The tone will not sound much different from that of a corresponding one-syllable tone-unit.\
+-   Example:
+    -   *here* will be said similarly in the following two utterances:
+        -   `/ here 'shall we 'sit / here`\
+    -   In both examples, no syllable follows the tonic syllable (TS).
+
+### If syllables follow the tonic syllable (i.e., there is a **tail**):
+
+-   The **pitch movement** of the tone is not completed on the tonic syllable.\
+-   With a rising tone:
+    -   The syllables of the tail will **continue to move upwards** from the pitch of the tonic syllable.\
+    -   Example:
+        -   `/ what` (rising tone)\
+        -   `/ what did you say`
+            -   The pitch of the syllables in the tail progressively increases.
+
+**Always Remember:**\
+- The tonic syllable is where the **pitch movement of the tone begins**, but this pitch movement is completed over the rest of the tone-unit (i.e., the tail).
+
+------------------------------------------------------------------------
+
+### With a falling tone:
+
+-   On a single syllable:
+    -   Example: `\ why`\
+    -   The pitch movement is completed on the tonic syllable.\
+-   If syllables follow the tonic syllable, the fall **may not be completed** on the tonic syllable.
+    -   Example:
+        -   `\ why did you . go`\
+        -   If the speaker’s lowest pitch is reached before the end of the tail, the pitch continues at the bottom level.
+
+------------------------------------------------------------------------
+
+### Task: Draw a diagram of the pitch movements for the following sentences:
+
+1.  `/ When did you . say`\
+2.  `What was the \ name of the . place`\
+3.  `/ What did you . do`
+
+------------------------------------------------------------------------
+
+### **The End of Chapter 16**
+
+#### Chapter 18
+
+# Function of Intonation 1
+
+------------------------------------------------------------------------
+
+### Why is studying intonation important in English?
+
+-   Intonation makes it easier for a listener to understand what a speaker is trying to convey.
+
+------------------------------------------------------------------------
+
+### What are the four functions of intonation?
+
+1.  **Attitudinal function**
+    -   Expresses emotions (feelings) and attitudes.\
+2.  **Accentual function**
+    -   Focuses attention on a particular lexical item or syllable.\
+3.  **Grammatical function**
+    -   Recognizes grammar or syntactic structure, distinguishing commands, questions, and statements.\
+4.  **Discourse function**
+    -   Signals new or given information in a conversation.
+
+------------------------------------------------------------------------
+
+### Focus of this Chapter: Attitudinal Function of Intonation
+
+-   Feelings like *happy, grateful, angry, bored* and attitudes are expressed using different tones.
+
+### Types of Tones:
+
+1.  **Falling Tone (\\):** Used to express:
+
+| Cases of Falling Tone | Examples                       |
+|-----------------------|--------------------------------|
+| **Finality**          | This is the end of the  course |
+|                       | This is the end of the  show   |
+|                       | Stop  talking                  |
+| **Definiteness**      | I am absolutely  certain       |
+|                       | I am absolutely  sure          |
+
+2.  **Rising Tone (/):** Used to express:
+
+| Cases of Rising Tone  | Examples                            |
+|-----------------------|-------------------------------------|
+| **General questions** | Can you / help me?                  |
+| **Listing**           | / red, / yellow, / blue and  white. |
+| **More to follow**    | I phoned them right a / way         |
+|                       | (‘and they agreed to come’)         |
+|                       | You must write it / again           |
+|                       | (and this time, get it right)       |
+| **Encouraging**       | It won't / hurt                     |
+
+3.  **Fall-Rise Tone (\\/):** Used to express:
+
+| Cases of Fall-Rise Tone            | Examples                       |
+|------------------------------------|--------------------------------|
+| **Uncertainty, doubt, hesitation** | You / may be right             |
+|                                    | I / might not travel to London |
+|                                    | We / may have some rain today  |
+|                                    | It’s / possible                |
+| **Requesting**                     | Can I / take it?               |
+|                                    | Can I / buy it?                |
+|                                    | Will you / lend it to me?      |
+
+4.  **Rise-Fall Tone (/\\):** Used to express...
+
+| Cases of Rise-Fall Tone           | Examples                        |
+|-----------------------------------|---------------------------------|
+| **Surprised and being impressed** | / All of them                   |
+|                                   | You were / first                |
+|                                   | You came / first                |
+|                                   | This dress is very / beautiful. |
+
+------------------------------------------------------------------------
+
+### Challenges in Analysing Intonation
+
+1.  **Invent and Say Sentences**
+    -   Analysts create sentences with different intonation patterns to match attitudes (e.g., happy, annoyed).\
+    -   **Problem:** This method is subjective and not based on natural speech.
+2.  **Get Listener Feedback**
+    -   Listeners write down attitudes they perceive from tones.\
+    -   **Problem:** Multiple descriptions make it hard to categorize results.
+3.  **Limit Label Choices**
+    -   Predefined labels like *angry, happy, curious* are used for simplification.\
+    -   **Problem:** Limits listeners' freedom to describe feelings.
+4.  **Analyse Speaker Intonations**
+    -   Speakers use tones to express attitudes, e.g., low tone for hostility.\
+    -   **Problem:** Results vary due to individual differences and acting abilities.
+
+### A Better Approach:
+
+-   Study recordings of real-life conversations to capture natural intonation.
+
+------------------------------------------------------------------------
+
+### Complexity of Expressing Emotion or Attitude
+
+-   **Intentional vs. Unintentional Expression:**
+    -   Sometimes emotions are expressed unintentionally, while other times they are deliberate.\
+-   **Types of Attitudes:**
+    -   Toward the listener (e.g., friendly tone).\
+    -   Toward the topic (e.g., doubtful or confident).\
+    -   Toward an outside situation (e.g., regretful or disapproving).
+
+------------------------------------------------------------------------
+
+### Beyond Traditional Intonation Analysis
+
+-   **Loudness and Speed:** Excitement or urgency can be shown through louder or faster speech.\
+-   **Voice Quality:** Changes in tone (soft, rough) add emotional depth.\
+-   **Pitch Range:**
+    -   Narrow range for calm tones.\
+    -   Wide range for excitement.\
+-   **Body Language and Facial Expressions:** These are crucial in conveying emotions but are often ignored in traditional studies.
+
+### Suprasegmental Variables in Attitudinal Intonation:
+
+1.  **Sequential Elements:** Pre-heads, heads, tonic syllables, and tails.\
+2.  **Prosodic Components:**
+    -   Pitch range, key, loudness, speed, and voice quality.\
+3.  **Paralinguistic Elements:**
+    -   Body language, facial expressions, and vocal effects like laughter.
+
+------------------------------------------------------------------------
+
+### Expressing Attitudes in English
+
+-   Learners should practice with native speakers to understand how intonation is used in real-life situations.
+
+------------------------------------------------------------------------
+
+### Conclusion
+
+-   Intonation is essential for helping listeners understand speakers more easily.\
+-   There are four functions of intonation: attitudinal, accentual, grammatical, and discourse.\
+-   Analysing the attitudinal function of intonation is complex and requires a deep understanding of real-life speech.
+::::

@@ -1,0 +1,25 @@
+project:
+  type: website
+
+website:
+  title: "fəˈnɒl.ə.dʒi"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: syllabus.qmd
+      - href: material.qmd
+      - about.qmd
+toc: true
+format:
+  html:
+    comments:
+      hypothesis: true
+    theme:
+      - flatly
+      - brand
+    css: styles.css
+    toc: true
+  
+editor: visual
+
