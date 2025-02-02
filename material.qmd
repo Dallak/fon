@@ -1187,6 +1187,90 @@ The four aspects of connected speech are:
 
 ------------------------------------------------------------------------
 
+## 16.1 The Tone-unit
+
+English is considered an intonation language. To analyze English intonation, a unit generally greater in size than the syllable is needed, and this unit is called the **tone-unit**. The tone-unit in its smallest form may consist of only one syllable, so it would be wrong to say that it is always composed of more than one syllable. It is possible to have a tone-unit with one syllable or more.
+
+To identify the tone-unit in English, we should remember:
+- There is no need to use IPA convention for identifying tone-unit. 
+- The normal spelling of words and sentences will be used.
+- Punctuation will not be used.
+- The syllable that carries the tone will be underlined.
+
+### Example:
+Consider this utterance:  
+**Is it you?**  
+The question above consists of three syllables (is, it, you), but only one tone-unit (the underlined word 'you'). The third syllable is more prominent than the other two and carries a rising tone. The other two syllables are less prominent and are said on a level pitch.
+
+A syllable which carries a tone is called a **Tonic Syllable (TS)**.
+
+### Example:
+Consider the longer utterance:  
+**John is it you?**  
+Because *John* is a proper name, the tone used is fall-rise. If there is a clear pause between "John" and "is it you?", this indicates two utterances. There are two tonic syllables here, as we have two tone-units: *John* and *you*.
+
+## 16.2 The Structure of Tone-unit
+
+There are at least two types of tone-units: simple and compound. In this course, we will focus only on simple tone-units. Each simple tone-unit has one and only one tonic syllable. This means that the tonic syllable is an obligatory component of the tone-unit.
+
+### Components of the Tone-unit:
+- **The Head (H)**
+- **The Pre-head (PH)**
+- **Tonic Syllable (TS)**
+- **The Tail (T)**
+
+### The Head (H)
+
+Let’s start analyzing a one-syllable utterance:  
+**those** (simple tone-unit with a tonic syllable). We can still have the same tone-unit in a longer utterance:  
+**give me those**  
+In the sentence above, the words before the tone-unit ("give" and "me") are stressed, and these words are called the **head**. The head is defined as all the part of a tone-unit that extends from the first stressed syllable up to (but not including) the tonic syllable.
+
+### Example:
+In the sentence **Bill called to give me those**, the head of the tone-unit consists of the five syllables before the tonic syllable "those."
+
+### The Pre-head (PH)
+
+The pre-head consists of all the unstressed syllables in a tone-unit preceding the first stressed syllable. Pre-heads are found in two main environments:
+- When there is no head (i.e., no stressed syllable preceding the tonic syllable), as in:  
+  **in an hour**
+- When there is a head, as in:  
+  **in a little less than an hour**
+
+### The Tail (T)
+
+Some syllables may follow the tonic syllable, forming the **tail**. In the following examples, each tone-unit consists of an initial tonic syllable and a tail:
+- **look at it**
+- **what did you say**
+- **both of them were here**
+
+### Stress in the Tail:
+When stress needs to be marked in the tail, a special symbol is used.
+
+### Example:
+- **look at it** → `look at it`
+- **what did you say** → `what did you say`
+- **both of them were here** → `both of them were here`
+
+## Tone-unit Structure
+
+The structure of the tone-unit is composed of:
+- **Pre-head (PH)**
+- **Head (H)**
+- **Tonic Syllable (TS)**
+- **Tail (T)**
+
+In longer stretches of speech, tone-unit boundaries must be marked.  
+- Pause boundaries are marked with a double vertical line `//`.  
+- Non-pause boundaries are marked with a single vertical line `/`.
+
+---
+
+**Label the parts of the tone units.**
+
+![Image Description](https://drive.google.com/uc?export=view&id=18PkAoqnsmPY-WMWTtW5LJq7hZp6kenBd)
+
+
 ### 16.3 Pitch Possibilities in the Simple Tone-Unit
 
 -   **Tone** is carried by the tonic syllable.\
