@@ -196,6 +196,49 @@ Two syllabic consonants may occur together, and it is not strange to have two sy
 
 -   Read Chapter 10: Stress in Simple Words.
 
+
+## Practice Question of Unit 9
+
+### Identify the weak syllables in the following words:
+
+| Word                | Weak Syllable         |
+|---------------------|-----------------------|
+| brəʊ.kən             |                       |
+| tʌn.l̩               |                       |
+| əʊ.pən               |                       |
+| ʃɑː.pən              |                       |
+| kɑː                  |                       |
+| bɛ.tə                |                       |
+| hæ.pi                |                       |
+| fəʊ.tə.ɡrɑːf         |                       |
+| bɒt.l̩               |                       |
+| kæt.l̩               |                       |
+| tǝ.mɒ.rǝʊ            |                       |
+| leɪ.di               |                       |
+| pa:s.l̩              |                       |
+| ɪ.væk.ju.eɪ.ʃən      |                       |
+| i:.zi                |                       |
+| væl.i                |                       |
+| θɪk.ŋ̩               |                       |
+| strʌɡ.l̩             |                       |
+| hæp.m̩               |                       |
+| ə.tend               |                       |
+| rɪ.saɪt              |                       |
+| ri.ækt               |                       |
+| hʌr.i                |                       |
+| fʌn.i                |                       |
+| səʊ.fə               |                       |
+| rɪ.siːv              |                       |
+| sɛv.n̩               |                       |
+| waɪd.n̩              |                       |
+| ə.tend               |                       |
+| hɛl.θi               |                       |
+
+---
+
+
+
+
 #### Chapter 10
 
 # Stress in Simple words
@@ -439,6 +482,41 @@ Unfortunately, in English, stress assignment is not that simple.
 -   Do the exercises that were uploaded on the blackboard.\
 -   Read Chapter 11 (Complex Word stress).
 
+
+## Practice Question of Unit 10
+
+### Mark the primary stress on the following words:
+
+### Verbs
+
+| Verbs               | Stressed Syllable    |
+|---------------------|----------------------|
+| protect             | [prə.tɛkt]           |
+| bellow              | [bɛ.ləʊ]             |
+| clamber             | [klæm.bə]            |
+| menace              | [mɛn.əs]             |
+| festoon             | [fɛs.tuːn]           |
+| disconnect          | [dɪs.kə.nɛkt]        |
+| detest              | [dɪ.tɛst]            |
+| entering            | [ɛn.tə.rɪŋ]          |
+
+### Nouns
+
+| Nouns               | Stressed Syllable    |
+|---------------------|----------------------|
+| language            | [læŋɡ.wɪʤ]           |
+| event               | [ɪ.vɛnt]             |
+| captain             | [kæp.tɪn]            |
+| jonquil             | [dʒɒŋ.kwɪl]          |
+| career              | [kə.rɪə]             |
+| injury              | [ɪn.dʒər.i]          |
+| paper               | [peɪ.pər]            |
+| connection          | [kə.nek.ʃən]         |
+
+---
+
+
+
 #### Chapter 11
 
 # Complex Word Stress
@@ -655,6 +733,39 @@ Unfortunately, in English, stress assignment is not that simple.
 -   Prepare for the quiz.\
 -   Read Chapter 12 (Weak Forms).
 
+## Practice Question of Unit 11
+
+### Mark the primary stress on the following words:
+
+| Words              | Primary Stressed Syllable |
+|--------------------|---------------------------|
+| pop-corn           |                           |
+| first class        |                           |
+| fruit-cake         |                           |
+| five fingers       |                           |
+| school-bus         |                           |
+| sunflower          |                           |
+| semicolon          |                           |
+| warm-hearted       |                           |
+| airplane           |                           |
+| old-fashioned      |                           |
+| blackboard         |                           |
+| Vietnamese         |                           |
+| well-trained       |                           |
+| nationality        |                           |
+| second-hand        |                           |
+| semi-circle        |                           |
+| good looking       |                           |
+| laptop             |                           |
+| semi-final         |                           |
+| personality        |                           |
+| philosophical      |                           |
+| sunglasses         |                           |
+
+---
+
+
+
 #### Chapter 12
 
 # Weak forms
@@ -832,6 +943,23 @@ The last word in a sentence can never be weak. For instance: - "What are you loo
 ## Coming up
 
 Read Chapter 14 (Aspects of connected speech).
+
+
+## Practice Question of Unit 12
+
+### Provide all the weak forms in the following sentences and transcribe them correctly based on the context (use the appropriate form: weak or strong):
+
+- Her friend will try to make it, if she can.
+- He was interested to call “his” daughter.
+- They can wait for me.
+- Shut the door.
+- I will see you at lunch.
+- Most of them have travelled to London last year.
+- I think we can.
+- That's what it was sold as.
+
+---
+
 
 #### Chapter 14
 
@@ -1027,6 +1155,23 @@ The four aspects of connected speech are:
 
 -   Read Chapter 15: Intonation 1
 
+
+## Practice Question of Unit 14
+
+### Analyse the following sentences and determine the number of rhythmical feet they contain:
+
+- The cat meowed softly under the bed. ( )
+- Follow the road until you reach the park. ( )
+- They met the girl with the red hat. ( )
+- Sarah found a new job in the city. ( )
+- Wait for the end. ( )
+- Alex went to a good school in London. ( )
+- The dog barked loudly at the mailman. ( )
+- He decided to visit his friends in Paris. ( )
+
+---
+
+
 #### Chapter 15
 
 # Intonation 1
@@ -1180,6 +1325,24 @@ The four aspects of connected speech are:
 ### Coming Up
 
 -   Read Chapter 16 (Intonation 2).
+
+## Practice Question of Unit 15
+
+### Mark the intonation patterns of the following sentences:
+
+- Some branches of theoretical linguistics are ___ phonetics, ___ phonology, ___ morphology and ___ syntax.
+- That is the end of the ___ term.
+- I ___ might not travel to London again.
+
+Use the following intonation patterns:
+
+- (fall)  
+- (rise)  
+- ˅ (fall-rise)  
+- /\ (rise-fall)
+
+---
+
 
 #### Chapter 16
 
@@ -1459,4 +1622,15 @@ In longer stretches of speech, tone-unit boundaries must be marked.
 -   Intonation is essential for helping listeners understand speakers more easily.\
 -   There are four functions of intonation: attitudinal, accentual, grammatical, and discourse.\
 -   Analysing the attitudinal function of intonation is complex and requires a deep understanding of real-life speech.
+
+
+## Practice Question of Unit 16
+
+### Identify the components of the tone-unit in the following sentences: Head (H), Pre-head (PH), Tonic syllable (TS), and Tail (T):
+
+- She bought a 'new pair of \ shoes yesterday.
+- Will she 'call you 'when she gets \ home?
+- Did we 'think about 'leaving the \ party?
+- Was it 'just a 'little too \ late?
+
 ::::
